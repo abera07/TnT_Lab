@@ -1,2 +1,2 @@
 # TnT_Lab
-Tools and Techniques Lab
+Tools and Techniques Laboratory
